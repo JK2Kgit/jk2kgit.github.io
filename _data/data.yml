@@ -172,9 +172,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: pong3d
+      - title: 3D pool
         #link: "#hook"
-        tagline: "Recreating of game 3dPong from comodore64"
+        tagline: "Recreating of game 3D Pool from comodore64"
 
       #- title: DevStudio
       #  link: "#"
